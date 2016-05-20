@@ -1,0 +1,47 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid #444444;
+    width: 5.5555%;
+    height: 60px;
+}
+.atomN {
+    margin: 0 0 0 .1em;
+    text-align: left;
+    font-size: 100%;
+}
+.blank {
+    text-align: center;
+    vertical-align: bottom;
+    border-style: none;
+}
+.abbreviation {
+    margin: 0;
+    text-align: center;
+    font-size: 140%;
+    font-weight: bold;
+}
+.name {
+    letter-spacing: -.1em;
+    text-align: center;
+    margin: 0.3em 0 .2em 0;
+    font-size: 70%;
+}
+.metalloid {
+    background-color: #dca7a7;
+}
+.metals {
+    background-color: #dca7a7;
+}
+.nonmetals {
+    background-color: #afd9ee;
+}
+.groupName {
+    margin-bottom: 0;
+    font-size: 70%;
+    text-align: center;
+    vertical-align: bottom;
+}
+

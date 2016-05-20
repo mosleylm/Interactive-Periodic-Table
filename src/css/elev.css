@@ -1,0 +1,7 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+th {
+    width: 25%;
+}
